@@ -576,7 +576,7 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     background-color: #31D0AA;
 }
 
-.footer-form {
+.footer-form-container {
     margin-left: 80px;
 }
 
@@ -588,7 +588,7 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     color: #fff;
 }
 
-.footer-form-box {
+.footer-form {
     display: flex;
     margin-top: 16px;
 }
