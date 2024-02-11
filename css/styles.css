@@ -724,8 +724,12 @@ color: #fff;
 }
 
 .modal-field {
-    
-    margin-bottom: 24px;
+    margin-bottom: 8px;
+    /* margin-bottom: 24px; */
+}
+
+.modal-coment {
+    margin-bottom: 16px;
 }
 
 .modal-label {
@@ -835,7 +839,7 @@ color: #fff;
     border-radius: 2px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     margin-right: 8px;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     fill: transparent;
