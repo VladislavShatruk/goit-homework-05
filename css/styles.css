@@ -827,12 +827,12 @@ color: #fff;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8E8F99;
-    display: inline-flex;
     align-items: center;
 }
 
 .user-privacy-link {
         text-decoration: underline;
+    display: inline-flex;
         color: #4d5ae5;
 }
 
@@ -852,12 +852,14 @@ color: #fff;
 
 .send-button {
     display: block;
+    border-radius: 4px;
+    padding: 16px 32px;
     min-width: 169px;
     height: 56px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    justify-content: center;
+    margin: 0 auto;
     color: #fff;
     background-color: #4D5AE5;
     border: none;
