@@ -725,11 +725,14 @@ color: #fff;
 
 .modal-field {
     margin-bottom: 8px;
-    /* margin-bottom: 24px; */
 }
 
 .modal-coment {
     margin-bottom: 16px;
+}
+
+.modal-user-privacy {
+    margin-bottom: 24px;
 }
 
 .modal-label {
@@ -824,7 +827,7 @@ color: #fff;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8E8F99;
-    display: flex;
+    display: inline-flex;
     align-items: center;
 }
 
@@ -839,7 +842,6 @@ color: #fff;
     border-radius: 2px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     margin-right: 8px;
-    display: inline-flex;
     align-items: center;
     justify-content: center;
     fill: transparent;
